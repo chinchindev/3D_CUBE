@@ -155,8 +155,8 @@ body {
     margin: 0 4px;
     border-radius: 50%;
     box-shadow: 0 0 0 10px #4fc3dc44, 0 0 50px #4fc3dc, 0 0 100px #4fc3dc;
-    animation: animate 25s linear infinite;
-    animation-duration: calc(100s / var(--i));
+    animation: animate 30s linear infinite;
+    animation-duration: calc(200s / var(--i));
 }
 
 .bubbles span:nth-child(even) {
