@@ -235,22 +235,37 @@ body {
 }
 
 @-webkit-keyframes moveclouds {
-    0% {
+    /* 0% {
         top: 500px;
     }
 
     100% {
         top: -500px;
+    } */
+
+    0% {
+        transform: translateY(150vh);
+    }
+
+    100% {
+        transform: translateY(-20vh);
     }
 }
 
 @keyframes moveclouds {
-    0% {
+    /* 0% {
         top: 500px;
     }
 
     100% {
         top: -500px;
+    } */
+    0% {
+        transform: translateY(150vh);
+    }
+
+    100% {
+        transform: translateY(-20vh);
     }
 }
 
