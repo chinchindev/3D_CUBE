@@ -107,7 +107,7 @@ body {
 .cube-box:hover {
     --deft: 200px;
     --deft-sub: 70px;
-    --opa: 0.7;
+    --opa: 0.8;
 }
 
 .cube-box {
